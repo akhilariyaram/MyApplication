@@ -1,4 +1,4 @@
-package com.example.Simple_Gallery;
+package com.example.simplegallery;
 import android.Manifest;
 import android.content.pm.PackageManager;
 import android.database.Cursor;
