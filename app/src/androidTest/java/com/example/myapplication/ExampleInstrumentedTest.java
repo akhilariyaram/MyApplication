@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.Simple_Gallery;
 
 import android.content.Context;
 
