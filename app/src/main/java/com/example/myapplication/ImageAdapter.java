@@ -1,4 +1,4 @@
-package com.example.Simple_Gallery;
+package com.example.simplegallery;
 
 import android.content.Context;
 import android.view.View;
